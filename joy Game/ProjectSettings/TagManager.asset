@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Cursor
+  - stuff
+  - SangMul
+  - kabechunk
+  - BaDackChunk
+  - ChungJanChunk
+  - HwaSal
+  - Cursorremove
+  - build
+  - Item Namu
+  - Item Doll
+  - Item Hwal
+  - Item Dogu
+  - Item Gogi
+  - ground
+  - BadaGround
+  - Bada
+  - Item chul
+  - ItemItem
+  - JackMulpos
+  - JeaJack
+  - JackMul1
+  - JackMul2
+  - JackMult
+  - toibi
+  - yongwang
+  - Sangja
+  - DiedMuckUm
+  - chimdea
+  - habsungi
+  - easybuildpos
+  - Mun
+  - Vehicle
+  - JackmulDDang
+  - Donttrigger
+  - badack
+  - Monsters
+  - Enemy
+  - tuchuck
+  - boss
+  - paintbrush
+  - advancedbench
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - UI_Dogu
+  - postprocessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
